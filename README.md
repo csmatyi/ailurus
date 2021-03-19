@@ -1,2 +1,2 @@
 # ailurus
-Supplemental files for baraminology analysis on red panda
+Supplemental files forBMC genomics paper on red panda
